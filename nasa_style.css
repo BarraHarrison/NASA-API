@@ -39,4 +39,17 @@ p {
     border-radius: 10px;
  }
 
+ button {
+   background: #fff;
+   color: darkslategray;
+   font-size: 2.2rem;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   width: 50%;
+   height: 100px;
+   margin: 50px auto;
+   cursor: pointer;
+ }
+
  
