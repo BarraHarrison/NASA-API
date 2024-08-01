@@ -1,0 +1,5 @@
+API KEY for NASA API:
+g4duXxzSamHDGSobbLkaaHgOmtHpti1G7kJoVqnR
+
+Example Query:
+https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
